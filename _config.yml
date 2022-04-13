@@ -1,0 +1,84 @@
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
+
+title: ELIXIR toolkit theme
+# This appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+topnav_title: ELIXIR toolkit theme
+# Optional: this appears on the top navigation bar next to the main_logo.svg icon
+
+description: "Flexible Jekyll theme using bootstrap 5 as CSS framework."
+# Metadata description of the website
+
+dsw_deep_link_prefix:
+# prefix for DSW deep links to a certain question
+
+gtag: 
+# Google analytics tag
+
+plausible: 
+# Plausible tag
+plausible_src: 
+# default: 'https://plausible.io/js/plausible.js
+
+exclude:
+  - .gitignore
+  - var/
+  - README.md
+  - vendor
+  - Gemfile*
+  - LICENSE
+
+sass:
+  style: compressed
+  sourcemap: never
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:basename
+      layout: "page"
+      sidebar: main
+  -
+    scope:
+      path: "pages/example_pages/TEMPLATE_general_page.md"
+      type: "pages"
+    values:
+      permalink: /:basename
+      sitemap: false
+      search_exclude: true
+      no_robots: true
+      layout: "page"
+      sidebar: main
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - webrick
+
+theme_variables: 
+  # git_host: GitHub
+  # back_to_top: true
+  # github_buttons: 
+  #   position: top
+  #   edit_me: true
+  #   open_issue: true
+  #   history: true
+  # toc:
+  #   min_headers: 2
+  #   headers: 'h2'
+  # topnav:
+    # github: true
+    # twitter: false
+  # theme_color: 0d6efd
+  # fonts:
+  #   - url towards a font
+
+# --- Missing in gitlab: ---
+# github:
+#   repository_url: https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+#   source:
+#     branch: main
