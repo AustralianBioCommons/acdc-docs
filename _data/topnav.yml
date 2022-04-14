@@ -11,7 +11,3 @@ subitems:
     url: /data_explorer
   - title: Study explorer
     url: /study_explorer
-  - hr: true
-  - title: Contributors
-    url: /contributors
-    
