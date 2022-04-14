@@ -1,6 +1,5 @@
 ---
 title: Data Access
-layout: page
 contributors: [Marion Shadbolt]
 description: Information about how to gain authorisation to access individual level metadata and data files.
 page_id: gp1
