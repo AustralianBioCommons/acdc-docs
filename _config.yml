@@ -60,6 +60,7 @@ plugins:
   - webrick
 
 theme_variables: 
+  theme_color: 344494
   # git_host: GitHub
   # back_to_top: true
   # github_buttons: 
@@ -73,7 +74,7 @@ theme_variables:
   # topnav:
     # github: true
     # twitter: false
-  theme_color: 344494
+  
   # fonts:
   #   - url towards a font
 
