@@ -1,11 +1,6 @@
 copyright: Copyright notice
 extra_line:
 columns:
-  - type: image
-    image_width: 120px
-    width: 2
-    src: 'assets/img/jekyll_theme_question.svg'
-    alt: Logo
   # - type: links
   #   title: Title
   #   width: 3
