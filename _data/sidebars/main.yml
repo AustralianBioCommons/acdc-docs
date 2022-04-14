@@ -3,9 +3,7 @@
 # title_url:  /events
 subitems:
   - title: Data Access
-    subitems:
-      - title: Data Access
-        url: /data_access
+    url: /data_access
   - title: Portal Exploration
     subitems:
       - title: Data Explorer
@@ -14,14 +12,12 @@ subitems:
         url: /study_explorer
       - title: Data Dictionary
         url: /data_dictionary
-  - title: Downloading data
+  - title: Downloading [meta]data
     subitems:
-      - title: Downloading data
-        url: /data_download
-  - title: Downloading data
-    subitems:
-      - title: Downloading data
-        url: /data_download
+      - title: Downloading metaddata
+        url: /metadata_download
+      - title: Downloading data files
+        url: /data_file_download
   - title: Using Workspaces
     subitems:
       - title: Using Workspaces
