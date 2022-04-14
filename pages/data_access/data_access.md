@@ -1,19 +1,37 @@
 ---
-title: Template example
+title: Data Access
 layout: page
 type: example_pages
-contributors: [Marion Shadbolt]description: This description is used when the page is listed
+contributors: [Marion Shadbolt]
+description: Information about how to gain authorisation to access individual level metadata and data files.
 page_id: gp1
 affiliations: [Australian BioCommons]
 ---
 
+## General Information 
+Access to the data files in the ACvA Precision Medicine Platform is strictly controlled.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis fermentum velit, at vulputate sapien. Suspendisse efficitur id elit sed volutpat. Etiam luctus sem id finibus pulvinar. Morbi sit amet purus a velit pretium imperdiet ut et elit. Maecenas eleifend, urna a aliquam lobortis, erat ligula efficitur velit, aliquam accumsan odio turpis nec nibh. Suspendisse placerat porttitor neque, vitae consequat massa aliquam eu. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin sed velit vitae tellus egestas condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris pretium scelerisque dignissim. Maecenas ipsum nisl, pretium non mollis ac, varius pulvinar nibh. Donec venenatis pulvinar arcu, vitae interdum purus dictum in. Proin sed tempus mi.
+Respect for, and protection of the interests of research participants are fundamental to the stewardship of human genomic, other ‘omic’ and associated phenotypic data. The [National Statement on Ethical Conduct in Human Research (2007) - updated 2018](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) (developed by NHMRC, ARC, and Universities Australia) sets the expectation that the informed consent under which data or samples were collected is the basis for determining the appropriateness of sharing data, including through systems such as the ACvA Precision Medicine Platform.
 
-## Lorem Ipsum
+As such applications must be made to access data files, and these will be considered by the relevant data access committee.
 
-Nam non sollicitudin sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas consectetur nulla nec rutrum rhoncus. Sed non urna sem. Maecenas sed lobortis urna, hendrerit aliquet massa. Phasellus felis dui, feugiat ut sapien vel, mattis dictum eros. Suspendisse in felis sit amet dui elementum rutrum tristique eget velit. Sed hendrerit, ante sit amet hendrerit cursus, ante nibh accumsan nibh, vitae rhoncus quam ipsum placerat ante.
+## Data Access Process
 
-### Lorem Ipsum
+Data access is given according to the terms in the Data Access Policy (link when finalised).
 
-Suspendisse potenti. Aliquam molestie tortor ac semper imperdiet. Sed nec laoreet odio. Aliquam erat volutpat. Aenean odio velit, tristique et mauris ac, porta lacinia ipsum. Vivamus massa quam, egestas in dui eget, porta pharetra tellus. Aliquam blandit ante eu ligula molestie pellentesque. Morbi non diam at leo euismod sagittis quis in magna. Ut vitae ligula sit amet nulla rhoncus ultrices vitae quis odio. Nam euismod nunc interdum tellus pulvinar, et interdum magna gravida.
+Data access is granted on a case-by-case basis and the final decision is made by the data custodians of each study.
+
+The following information must be provided in order for an application to be assessed:
+* requirement 1
+* requirement 2
+* requirement 3
+
+Data access applications will be processed within 6 weeks from the date of a complete application being submitted.
+
+## Data Access forms
+
+To apply for access to data from the **BioHEART-CT** study please [click here](https://registry-test.biocommons.org.au/registry/co_petitions/start/coef:120).
+
+To apply for access to data from the **AusDiab** study please [click here](https://registry-test.biocommons.org.au/registry/co_petitions/start/coef:117) 
+
+To apply for access to data from the **FIELD** study please [click here](https://registry-test.biocommons.org.au/registry/co_petitions/start/coef:100)
