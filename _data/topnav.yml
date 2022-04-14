@@ -5,12 +5,12 @@ subitems:
   url: /index
 - title: Data Access
   url: /data_access
-- title: Example dropdown
+- title: How-to-Guides
   subitems:
-  - title: Events
-    url: /events
-  - title: News
-    url: /news
+  - title: Data explorer
+    url: /data_explorer
+  - title: Study explorer
+    url: /study_explorer
   - hr: true
   - title: Contributors
     url: /contributors
