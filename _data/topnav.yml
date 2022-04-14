@@ -3,8 +3,8 @@
 subitems:
 - title: Home
   url: /index
-- title: About
-  url: /about
+- title: Data Access
+  url: /data_access
 - title: Example dropdown
   subitems:
   - title: Events
