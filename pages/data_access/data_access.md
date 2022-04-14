@@ -1,5 +1,6 @@
 ---
 title: Template example
+layout: page
 type: example_pages
 contributors: [Marion Shadbolt]description: This description is used when the page is listed
 page_id: gp1
