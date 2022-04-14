@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+    {% include topnav.html %}
+    <!-- Page Content -->
+    <div class="container min-vh-100">
+        <!-- Content Row -->
+        <div class="row gx-0 gx-lg-5">
+            {%- assign content_col_size = "col-lg-12" %}{% unless page.hide_sidebar %}
+            <!-- Sidebar Column -->
+            <div class="col-lg-3">
+                {% include sidebar.html %}
+            </div>
+            {%- assign content_col_size = "col-lg-9" %}{% endunless %}
+            <!-- Content Column -->
+            <div class="{{content_col_size}}">
+                {{content}}
+            </div>
+        </div>
+    </div>
+    {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
+    <button id="back-to-top" class="btn btn-primary" type="button" aria-hidden="true" onclick="topFunction()">
+        <i class="fa-solid fa-arrow-up"></i><span class="ms-2 d-none d-sm-inline">Back to top</span>
+    </button>
+    {%- endif %}
+    {% include footer.html %}
+    {% include cookie-popup.html %}
+</body>
+</html>
