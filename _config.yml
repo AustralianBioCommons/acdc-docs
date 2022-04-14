@@ -1,12 +1,12 @@
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
 
-title: ELIXIR toolkit theme
+title: ACDC Data Portal Documentation
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: ELIXIR toolkit theme
+topnav_title: ACDC Data Portal Docs
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Flexible Jekyll theme using bootstrap 5 as CSS framework."
+description: "Documentation and how-to guides for the ACDC Data Portal, powered by Gen3."
 # Metadata description of the website
 
 dsw_deep_link_prefix:
